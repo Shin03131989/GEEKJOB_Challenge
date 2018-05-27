@@ -1,0 +1,5 @@
+﻿プロセッサ：Intel(R) Atom(TM) x7-Z8700 CPU @ 1.60GHz
+実装RAM: 4.00GB
+HDD: 115GB
+システムの種類：64-bit operating system, x64-based processor
+エディション：Windows 10 Home
